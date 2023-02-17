@@ -11,7 +11,9 @@ Descreva o formato para cada tipo de mensagem (Request e Response).
 
 ## 💡 Instalação & Execução
  1. Instalar o [Python](https://www.python.org/downloads/) ;
- 2. Baixar o programa em "Code" > "Download ZIP" ou utilizando o comando "git clone https://github.com/andreluizigal/calculadora-remota.git" em um terminal aberto na pasta destino;
+ 2. Baixar o programa em *"Code > Download ZIP"* ou utilizando o comando:  
+ <code>git clone https://github.com/andreluizigal/calculadora-remota.git</code>  
+ em um terminal aberto na pasta destino;
  3. Executar o arquivo "servidor_calculadora.py";
  4. Executar o arquivo "cliente_calculadora.py";
  5. Digitar a operação desejada no programa do cliente.
